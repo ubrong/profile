@@ -21,7 +21,7 @@
 
 #### 4. 账户信息统计
   
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubrong&show_icons=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats-lac-sigma-57.vercel.app/api?username=ubrong&show_icons=true&theme=tokyonight)
 
 
 #### 5. 语言统计
