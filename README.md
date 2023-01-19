@@ -20,20 +20,17 @@
 
 
 #### 4. 账户信息统计
-* 受访问影响，不推荐
   
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubrong&show_icons=true&theme=tokyonight)
 
 
 #### 5. 语言统计
-* 受访问影响，不推荐
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubrong&layout=compact&theme=tokyonight)
 
 
 
 #### 6. repo卡片
-* 受访问影响，不推荐
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ubrong&repo=phoneweb-base)
 
