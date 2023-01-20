@@ -8,4 +8,7 @@
 
 ![github统计](https://stats.justsong.cn/api/github?username=ubrong&theme=dark&lang=zh-CN)
 
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark&lang=zh-CN)
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=1643462710&theme=dark)
+
+
+![Visitor Count](https://profile-counter.glitch.me/bilibili2023001/count.svg)
