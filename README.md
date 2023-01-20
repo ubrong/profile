@@ -12,3 +12,7 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/bilibili2023001/count.svg)
+
+
+![tip](https://badgen.net/badge/php/8.1/orange?icon=bitcoin-lightning)
+![tip](https://badgen.net/badge/python/3.1.6/green?icon=circleci)
